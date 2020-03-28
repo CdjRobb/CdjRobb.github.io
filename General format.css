@@ -1,0 +1,154 @@
+
+/* Geeneral page format */
+
+body {
+	height: 100%;
+	margin: 0;
+	font-family: sans-serif;
+	background-color: #d9d9d9;
+}
+
+
+/* TCK Header */
+
+
+
+
+.head_banner {
+	color: #bfc0bf;
+	font-size: 4em;
+	background-color: #ffffff;
+	padding: 1em;	
+	text-align: center;
+	position: relative;
+	margin-left: 40%;
+	
+	
+	
+	
+}
+
+.fb-icon {
+	position: relative;
+	margin-left:  80%;
+	
+	
+	
+}
+
+.intagram-icon {
+	position: relative;
+	margin-right: 70%;
+	
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #bfc0bf;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+ 
+  
+}
+
+li a:hover {
+ 
+  color: #249090;
+}
+
+
+/* active = home buttin */
+
+.active {
+  background-color: #d8d9d8;
+  color: #404040;
+
+}
+
+.active:hover  {
+  color: #249090;
+  background-color: #d8d9d8;
+}
+
+
+/* Email address footer location */
+
+.offers-signup {
+	text-align: center;
+	margin-top: 10em;
+
+	
+}
+
+/* sign up email buttin */
+
+.sign-up-button {
+	background-color: #ffffff;
+	padding-top: 0.2em;
+	padding-right: 1em;
+	padding-left: 1em;
+	padding-bottom: 0.2em;
+	color: #333;
+	border: none;
+	border-radius: 0.3em;
+	font-size: 1em;
+	
+}
+
+.sign-up-button:hover {
+	background-color: #d9d9d9;
+	color: #ffffff;
+	
+	
+}
+
+
+/*Email form control */
+
+.email-form-control {
+	
+	font-size: 1em;
+	
+}
+
+.email-form-control:active, .email-form-control:focus {
+
+     border-color: #ffffff;
+	 color: #d9d9d9;
+	 
+     
+  }
+	
+	
+
+
+/* Copyright footer */
+
+.copyright {
+	
+	margin-top: 3em;
+	margin-left: 0.2em;
+	margin-right: 5em;
+}
+
